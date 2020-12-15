@@ -12,6 +12,6 @@ email:  Tu.Danny2@gmail.com
 
 # Google-analytics
 google-analytics:
-  id: "2207377210"
+  id: "G-KT417PYBXW"
 
 exclude: ['package.json', 'src' , 'node_modules']
