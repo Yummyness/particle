@@ -1,12 +1,12 @@
 # Site settings
 title: The Life of Danny
-description: An awesome site built for Danny
+description: My personal portfolio
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Danny Tu
-user_description:
+user_description: I'm Danny, nice to meet you! I'm a big computer nerd and the person my parents go to when the internet is slow. I graduated with a Bachelor's in Mathematics at George Mason University. I'm passionate about applications in machine learning, data analysis, and have experience as pseudo sysadmin for my home lab.
 user_title: Tech Nerd, Always Hungry, Wushu Master
 email:  Tu.Danny2@gmail.com
 twitter_username: lorem_ipsum
